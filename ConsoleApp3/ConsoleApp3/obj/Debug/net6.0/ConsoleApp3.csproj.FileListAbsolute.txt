@@ -1,0 +1,30 @@
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.exe
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.deps.json
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.runtimeconfig.json
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.dll
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.pdb
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.AssemblyReference.cache
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfoInputs.cache
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfo.cs
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.dll
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/refint/ConsoleApp3.dll
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.pdb
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.genruntimeconfig.cache
+C:/Users/salma/source/repos/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ref/ConsoleApp3.dll
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.deps.json
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.runtimeconfig.json
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.dll
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.pdb
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.AssemblyReference.cache
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfoInputs.cache
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfo.cs
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.dll
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/refint/ConsoleApp3.dll
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.pdb
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.genruntimeconfig.cache
+/home/ctoic/Downloads/Fourth Semester/DBLab/lab009/ConsoleApp3/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ref/ConsoleApp3.dll
